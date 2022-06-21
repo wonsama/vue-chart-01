@@ -24,3 +24,4 @@ yarn dev
 - https://codesandbox.io/s/bezier-curves-nodes-forked-21l6r5?file=/src/App.js
 - https://dash14.github.io/v-network-graph/examples/paths.html#animation
 - https://madewithvuejs.com/
+- https://yohanpro.com/posts/vue3/vue3-default
